@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+app-exercice1 {
+  border: solid 2px blue;
+}
+
+app-exercice3 {
+  border: solid 2px green;
+}
+
+app-exercice4 {
+  border: solid 2px orange;
+}
